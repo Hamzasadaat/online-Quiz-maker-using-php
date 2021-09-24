@@ -5,5 +5,5 @@ Today Online Quiz System has become a fast growing examination method because of
 
 Attention 
 ----------------------------
-exam.rar file contains all the css files, plugins and images.
+All the images and assests are attached 
 ----------------------------
